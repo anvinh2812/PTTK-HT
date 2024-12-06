@@ -1,0 +1,39 @@
+<mxfile host="app.diagrams.net" modified="2023-11-13T01:28:59.447Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="0sg2cfoC15LbvelaCe-V" version="22.1.0" type="device">
+  <diagram name="Trang-1" id="qMfu22pgo9cUbidWBD_R">
+    <mxGraphModel dx="996" dy="578" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="cB7M5vpu6lpwxvO0WNar-2" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="80" width="220" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="cB7M5vpu6lpwxvO0WNar-7" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;endArrow=open;endFill=0;endSize=9;" edge="1" parent="cB7M5vpu6lpwxvO0WNar-2" source="cB7M5vpu6lpwxvO0WNar-4" target="cB7M5vpu6lpwxvO0WNar-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cB7M5vpu6lpwxvO0WNar-8" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="cB7M5vpu6lpwxvO0WNar-7">
+          <mxGeometry x="-0.048" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cB7M5vpu6lpwxvO0WNar-4" value="Thống kê số bàn đã đặt" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="cB7M5vpu6lpwxvO0WNar-2">
+          <mxGeometry x="46" y="30" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="cB7M5vpu6lpwxvO0WNar-6" value="Thống kê khách quay trở lại" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="cB7M5vpu6lpwxvO0WNar-2">
+          <mxGeometry x="46" y="160" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="cB7M5vpu6lpwxvO0WNar-9" value="Thống kê tấn suất các món" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="cB7M5vpu6lpwxvO0WNar-2">
+          <mxGeometry x="44" y="250" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="cB7M5vpu6lpwxvO0WNar-10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="cB7M5vpu6lpwxvO0WNar-3" target="cB7M5vpu6lpwxvO0WNar-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cB7M5vpu6lpwxvO0WNar-11" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="cB7M5vpu6lpwxvO0WNar-3" target="cB7M5vpu6lpwxvO0WNar-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cB7M5vpu6lpwxvO0WNar-3" value="Nhan Viên&lt;br&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="200" width="30" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
